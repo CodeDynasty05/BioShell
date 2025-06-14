@@ -1,0 +1,93 @@
+Generate a modern, responsive introductory website for a startup called BioShell. The website should be clean, minimalist, and eco-friendly, using green and earth tones, soft gradients, and clean sans-serif fonts. Design should be mobile-first and fast-loading, accessible for low-bandwidth rural users. Use HTML, CSS (or Tailwind CSS if code), and minimal JavaScript for interactivity (such as form validation).
+
+The website must include these sections/pages:
+
+1️⃣ Home / Landing
+
+Hero banner: “🌿 BioShell – Torpağın Yeni Nəfəsi | Restore Land. Grow Sustainably.”
+
+Sub-text: “Biodegradable capsule that revives soil, protects crops, and reduces chemical use.”
+
+Call-to-action button: “Discover BioShell”
+
+2️⃣ Problem
+
+Title: “Why BioShell?”
+
+Text: “Post-conflict and climate-hit soils are lifeless, costly to farm, and dependent on chemicals. BioShell gives soil a new breath naturally.”
+
+Icons or infographic row: “💥 Degraded Land | 💸 Expensive Chemicals | ⚠️ Pest Pressure”
+
+3️⃣ Solution
+
+Title: “Our Solution”
+
+Points:
+
+Restores soil pH & structure
+
+Natural pest protection
+
+Fully biodegradable
+
+Affordable for small farmers
+
+Include a simple diagram/illustration or placeholder showing capsule layers:
+
+Core: seashell powder, limestone, neem, Trichoderma
+
+Coating: biodegradable PVA film
+
+4️⃣ How It Works
+
+Sentence: “Moisture activates BioShell, slowly releasing nutrients and pest repellents while the capsule fully decomposes.”
+
+(Optional) Simple animation or static image showing activation cycle
+
+5️⃣ Impact
+
+“BioShell targets 150,000 ha degraded land in Karabakh + 300,000 ha in Punjab.”
+
+“Aligned with UN SDGs: Zero Hunger, Climate Action, Life on Land.”
+
+6️⃣ Team
+
+Names: Murad Baghirzada (Team Lead), Jeyran Imranova (CEO), Gulnur Humbatli (Sales Manager)
+
+Short bios or placeholders for images
+
+7️⃣ Contact
+
+Simple contact form: Name, Email, Message
+
+Email: bioshell@gmail.com | Phone: +994 (55) 990-25-60
+
+Footer
+
+“© 2025 BioShell. All rights reserved.”
+
+Links: Privacy Policy, Terms of Service
+
+Design guidelines
+
+Eco-friendly palette (greens, browns, white space)
+
+Large, bold headings; clear buttons
+
+Responsive grid layout
+
+Include SEO meta title: “BioShell: Natural Capsule for Soil Restoration”
+
+Include meta description: “BioShell offers an innovative biodegradable capsule that restores soil, protects crops, and supports sustainable farming in post-conflict regions.”
+
+Technical
+
+Ensure mobile and desktop compatibility
+
+Minimal JS for form validation (optional)
+
+Images and diagrams can be placeholders with alt text: “Illustration of BioShell capsule structure”
+
+Output
+
+Full website code (HTML + CSS + JS if needed) OR configuration for Firebase Studio page builder.
